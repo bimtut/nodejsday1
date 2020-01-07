@@ -1,0 +1,23 @@
+{
+  "name": "nodejsday1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "day1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node day1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bimtut/nodejsday1.git"
+  },
+  "author": "saya sendiri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bimtut/nodejsday1/issues"
+  },
+  "homepage": "https://github.com/bimtut/nodejsday1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
